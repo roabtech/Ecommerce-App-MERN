@@ -23,6 +23,21 @@ A full-featured eCommerce web application built using the MERN (MongoDB, Express
 1. Clone the repository:
    ```bash
    git clone https://github.com/lamoregedion/Ecommerce-App-MERN.git
+<<<<<<< HEAD
+   
+2.Install dependencies:
+     cd Ecommerce-App-MERN
+     npm install
+     cd frontend
+     npm install
+
+ 3. Create a .env file and configure the following:
+ 4. Run the application:
+    # Run frontend and backend concurrently
+    npm run dev
+
+
+=======
 
 2. Install dependencies:
    ```bash
@@ -42,3 +57,4 @@ A full-featured eCommerce web application built using the MERN (MongoDB, Express
 
 
 
+>>>>>>> 31c0b7dcdbce15aaf54f040a918315a898520ffa
